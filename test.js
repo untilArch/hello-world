@@ -10,7 +10,7 @@ for (var i = 0; i < text.length; i++) {
   }
 }
 if (hits.length === 0) {
-  console.log("Your name wasn't found!")
+  console.log("Your name was not found!")
 } else {
   console.log(hits)
 }
